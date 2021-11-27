@@ -77,7 +77,7 @@ projects:
         link: "#"
         
 
-      - title: Trafic Lights
+      - title: Traffic Lights
         # optional
         project_logo: TicTacToec
         link: https://github.com/Aaron2301/traffic-lights-aaron
